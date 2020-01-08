@@ -9,3 +9,8 @@ public class HelloWorld {
 		System.out.println("Hello world");
 	}
 }
+
+
+/*
+   How to develope a init Hell world
+*/
